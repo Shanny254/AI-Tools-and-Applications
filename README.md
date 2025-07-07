@@ -1,4 +1,4 @@
-# AI Tools and Applications Assignment
+# AI Tools and Applications 
 
 ## Project Title: Mastering the AI Toolkit – Real-World Implementation using Scikit-learn, TensorFlow, and spaCy
 
